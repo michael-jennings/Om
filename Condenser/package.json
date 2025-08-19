@@ -1,0 +1,13 @@
+{
+  "name": "condenser",
+  "version": "0.1.0",
+  "description": "Chrome extension to export chat histories from AI platforms",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo 'No tests'"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3",
+    "@types/chrome": "^0.0.246"
+  }
+}
